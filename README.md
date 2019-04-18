@@ -15,3 +15,9 @@ https://ca.linkedin.com/in/dawid-joks
 # Screenshot
 
 ![](https://raw.githubusercontent.com/Dawinci17/portfolio2/master/images/iPhone%206-7-8%20%E2%80%93%201.png)
+
+
+# Copyright
+
+Template acquired from:
+https://colorlib.com/
